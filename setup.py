@@ -10,6 +10,7 @@ long_description = (this_directory / 'README.md').read_text(encoding='utf-8')
 gui = [
     'PyQt6',
     'PyQt6-WebEngine',
+    'PySide6-Essentials',
     'pynput',
     'screeninfo',
 ]
